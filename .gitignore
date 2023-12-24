@@ -1,0 +1,11 @@
+# Dépendances
+/node_modules
+
+# Fichiers de configuration du système
+.env
+.DS_Store
+Thumbs.db
+
+# Fichiers de build et binaires
+/build
+/bin
